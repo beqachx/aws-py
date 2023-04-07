@@ -16,5 +16,5 @@ poetry update
 ### 🔌 Run
 
 ```bash
-poetry run python3 main.py --help
+poetry run python3 task_1/main.py --help
 ```
