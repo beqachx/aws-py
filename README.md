@@ -7,6 +7,12 @@ poetry add python-dotenv
 poetry add boto3
 ```
 
+## Update Existing Packages
+
+```bash
+poetry update
+```
+
 ### 🔌 Run
 
 ```bash
