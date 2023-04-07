@@ -7,7 +7,7 @@ poetry add python-dotenv
 poetry add boto3
 ```
 
-## Update Existing Packages
+## ✅ Update Existing Packages
 
 ```bash
 poetry update
@@ -16,5 +16,5 @@ poetry update
 ### 🔌 Run
 
 ```bash
-poetry run python3 main.py --help
+poetry run python3 <task_x>/main.py --help
 ```
